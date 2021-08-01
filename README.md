@@ -6,8 +6,7 @@
 
 <div>
   <a hreft="https://github.com/kennerges">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kennerges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennerges&layout=compact&langs_count=16&theme=dark"/>
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=kennerges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ken-Py" height="30" width="40" src="https://raw.githubusercontent.com/Kennerges/kennerges/main/python-original.svg">
